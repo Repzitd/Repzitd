@@ -55,25 +55,6 @@
 
 ---
 
-### 🖤 ASCII-аватар
-
-  .-""""-.
-  
- / -   -  \
- 
-|  .-. .-. |
-
-|  \o| |o/ |
-
-\     ^    /
-
- '.  '-'  .'
- 
-   '-----'
-   
-
----
-
 ### 🖤 Мой путь в кодинге
 <p align="center">
   <img src="https://media.giphy.com/media/3o6gE5aYpJk5v2ytAA/giphy.gif" width="300" />
