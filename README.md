@@ -43,13 +43,6 @@
 
 ---
 
-### 📊 Статистика
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=repzitd&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📂 Мои проекты
 *(скоро здесь появятся ссылки на репозитории, которыми я горжусь)*
 
